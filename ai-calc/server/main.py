@@ -2,7 +2,7 @@ from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
-from constant import SERVER_URL, PORT , ENV
+from constants import SERVER_URL, PORT, ENV
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
