@@ -1,7 +1,7 @@
 # AI Calculator Website
 
-![AI Calculator Website Screenshot 1](path_to_your_website_image)
-![AI Calculator Website Screenshot 2](path_to_your_website_image)
+![AI Calculator Website Screenshot 1](ai-calc/image/3.png)
+![AI Calculator Website Screenshot 2](ai-calc/image/2.png)
 
 
 ## Overview
@@ -108,7 +108,7 @@ To run this project, follow the steps below:
 
 ## Screenshots
 
-![AI Calculator Website Preview](path_to_your_website_image)
+![AI Calculator Website Preview](ai-calc/image/1.png)
 
 ## License
 
