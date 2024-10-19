@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/mathjax": "^0.0.40",
+    "mathjax": "^3.2.2"
+  }
+}
